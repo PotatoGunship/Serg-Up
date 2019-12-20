@@ -1,6 +1,6 @@
 x = room_width/2
 
-var gap = 80
+var gap = 120
 
 //Left vars
 L_arrowX=x-gap
