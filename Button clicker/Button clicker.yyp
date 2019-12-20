@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "b98f461b-6c90-4aa1-88ca-24354b24f908",
+            "Value": {
+                "id": "67f5b44e-e621-4c4f-8b8a-6f8b8f9fbef9",
+                "resourcePath": "sprites\\s_arrowshade\\s_arrowshade.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b9c66e47-3273-4c04-975c-5c321276a896",
             "Value": {
                 "id": "912cbd2b-403e-4f1f-b21f-b5eb90379a0d",
